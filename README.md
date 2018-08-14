@@ -6,6 +6,7 @@ ___
 
 ## 2. Experimental Results
 The results shown as Table 1 are the top-1 accuracy for different CNN model combined with three views.
+
 | Model          | Top-1 Accuracy | Download |
 |----------------|----------------|-------|
 | HandNet        | 90.86%         |   https://drive.google.com/open?id=1D9sCSEwz49mz77xm41ErB-K7yrRq_BxD    |
@@ -18,6 +19,7 @@ The results shown as Table 1 are the top-1 accuracy for different CNN model comb
 *Table 1*
 
 The results shown as Table 2. are the top-1 accuracy for HandNet in different combination of two views.
+
 | Views | Top-1 Accuracy | Prototxt |
 |-------|----------------|----------|
 | F+L   | 84.26%         |          |
