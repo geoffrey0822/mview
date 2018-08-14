@@ -16,6 +16,7 @@ The results shown as Table 1 are the top-1 accuracy for different CNN model comb
 | Multi-Channel  | 86.52%         |   https://drive.google.com/open?id=1Qf5FhjJVuU4fYJfZS0nYW-B8salEu-Tw    |
 | 3D Convolution | 58.47%         |   https://drive.google.com/open?id=1kagMj2oECOcI4Z2nJyI9Ypwi2DA_TDSn    |
 | LeNet          | 84.74%         |   https://drive.google.com/open?id=1h8pInoW3N4zM8ZWUISfxKkvOhG3HwxSk    |
+
 *Table 1*
 
 The results shown as Table 2. are the top-1 accuracy for HandNet in different combination of two views.
@@ -25,6 +26,7 @@ The results shown as Table 2. are the top-1 accuracy for HandNet in different co
 | F+L   | 84.26%         |          |
 | F+R   | 90.62%         |          |
 | L+R   | 87.59%         |          |
+
 *Table 2*
 
 -Download Dataset-
@@ -44,9 +46,9 @@ The results shown as Table 2. are the top-1 accuracy for HandNet in different co
 
     - Inner product layer for fusion: https://drive.google.com/open?id=1j3OFh77Y_kGr8TiVpPIJxbNMBfTe3ZKF
     - Element-wise summation for fusion: https://drive.google.com/open?id=1-ysmUKUwQoX9RF0WuhS9MMdUt_-oRWeI
-    - Prototxt for F+L: 
-    - Prototxt for F+R: 
-    - Prototxt for L+R: 
+    - Prototxt for F+L: https://github.com/geoffrey0822/mview/blob/master/FL.prototxt
+    - Prototxt for F+R: https://github.com/geoffrey0822/mview/blob/master/FR.prototxt
+    - Prototxt for L+R: https://github.com/geoffrey0822/mview/blob/master/LR.prototxt
 
     
 
